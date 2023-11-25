@@ -1,0 +1,9 @@
+﻿namespace shopdemo.Data.ViewModels
+{
+    public class ItemVM
+    {
+        public string Name { get; set; }
+        public float Price { get; set; }
+        public int Quantity { get; set; }
+    }
+}
